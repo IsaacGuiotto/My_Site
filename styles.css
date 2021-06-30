@@ -40,6 +40,7 @@ div {
 
 .top_Container {
   width: 100%;
+  position: relative;
   padding-top: 200px;
   padding-bottom: 200px;
   background-color: #3C8DAD;
@@ -92,7 +93,7 @@ div {
   width: 10%;
   position: absolute;
   left: 350px;
-  bottom: 350px;
+  bottom: 500px;
 }
 
 .skills {
