@@ -1,0 +1,107 @@
+/*
+  colors:#ffcb91, #ffefa1
+    #94ebcd, #6ddccf, #e4f9f5.
+    #3C8DAD, #4C4C6D, #053742,
+    #0A1931, #346751, #558776
+*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: x-large;
+  background-color: #91C788;
+  color: #e4f9f5;
+}
+p {
+  font-family: 'Oswald', sans-serif;
+  color: black;
+  line-height: 1.3;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+h1 {
+  font-size: 5.0rem;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  padding-top: 50px;
+}
+
+.top_Container {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  background-color: #3C8DAD;
+}
+
+.middle-container {
+  padding-bottom: 0;
+}
+
+.bottom-container {
+  background-color: #3C8DAD;
+  padding-top: 0;
+  padding-bottom: 20px;
+}
+
+.tec_img {
+  width: 20%;
+}
+
+.computer_img {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.cronometro_img {
+  width: 50%;
+}
+
+.gmail_img {
+  width: 5%;
+}
+
+.twitter_img {
+  width: 5%;
+}
+
+.linkedin_img {
+  width: 5%;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 350px;
+  top: 100px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 350px;
+}
+
+.skills {
+  padding-bottom: 800px;
+
+}
+
+.skill-row-0 {
+  position: absolute;
+  left: 100px;
+}
+
+.skill-row-1 {
+  position: absolute;
+  right: 200px;
+}
