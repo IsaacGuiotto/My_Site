@@ -45,10 +45,11 @@ div {
 }
 
 .middle-container {
-  padding-bottom: 0;
+  margin: 100px 0;
 }
 
 .bottom-container {
+  width: 100%;
   background-color: #3C8DAD;
   padding-top: 0;
   padding-bottom: 20px;
@@ -97,11 +98,13 @@ div {
 }
 
 .skill-row-0 {
+  width: 40%;
   position: absolute;
   left: 100px;
 }
 
 .skill-row-1 {
+  width: 34%;
   position: absolute;
   right: 200px;
 }
