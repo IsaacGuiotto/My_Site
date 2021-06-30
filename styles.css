@@ -88,6 +88,7 @@ div {
 }
 
 .bottom_cloud {
+  width: 10%;
   position: absolute;
   left: 350px;
   bottom: 350px;
