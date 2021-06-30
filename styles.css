@@ -48,7 +48,7 @@ div {
 
 .middle-container {
   width: 100%;
-  margin: 100px 0;
+  margin: 50px 0;
 }
 
 .bottom-container {
@@ -60,6 +60,8 @@ div {
 
 .tec_img {
   width: 20%;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .computer_img {
@@ -90,7 +92,7 @@ div {
 }
 
 .bottom_cloud {
-  width: 10%;
+  width: 15%;
   position: absolute;
   left: 350px;
   bottom: 500px;
@@ -98,9 +100,11 @@ div {
 
 .profile {
   width: 100%;
+  font-size: 1.1rem;
 }
 
 .skills {
+  width: 100%;
   padding-bottom: 800px;
 
 }
