@@ -96,6 +96,10 @@ div {
   bottom: 500px;
 }
 
+.profile {
+  width: 100%;
+}
+
 .skills {
   padding-bottom: 800px;
 
