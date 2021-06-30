@@ -39,6 +39,7 @@ div {
 }
 
 .top_Container {
+  width: 100%;
   padding-top: 200px;
   padding-bottom: 200px;
   background-color: #3C8DAD;
